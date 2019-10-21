@@ -1,25 +1,27 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2019-10-21
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+title: Creating A Strong Password
+subtitle: How strong is your password?
+description: >-
+  Tips and tricks on building a strong memorable password.
+image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+optimized_image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+category: security
 tags:
-  - books
-  - read
+  - password
+  - security
 author: adigitaldad
-paginate: true
+paginate: false
+comments: false
 ---
-
-# Creating a strong password
 
 Building a strong password is all about length and mixing it up with letters, numbers, special characters.  Having a strong password will save you from the headache of getting hacked.
 
 ## First let’s see how strong your password is
-Take a look at https://howsecureismypassword.net to see if your existing password is strong.  You may not need to read the rest of this cause you’re ahead of the game if your password is strong.  
+Take a look at [howsecureismypassword.net](https://howsecureismypassword.net) to see if your existing password is strong.  You may not need to read the rest of this cause you’re ahead of the game if your password is strong.  
 
 ## Weak to Strong
 Let’s take a look at how we can make a weak password into a strong password.
@@ -39,4 +41,4 @@ Great!!! Now you know how to create a strong password and it’s time to look at
 TLDR;
 Use numbers, letters, symbols and make it over 16 characters long
 
-Please don’t use monkey as your password, it’s one of the most common passwords out there right next to `password` and `123456`
+Please don’t use `monkey` as your password, it’s one of the most common passwords out there right next to `password` and `123456`
